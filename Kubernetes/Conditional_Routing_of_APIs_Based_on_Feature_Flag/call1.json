@@ -1,0 +1,102 @@
+{
+    "Action": "GET",
+    "responsePayload": {
+      "products": [
+        {
+          "picture": "/img/products/typewriter.jpg",
+          "name": "Vintage Typewriter",
+          "priceUsd": 67.98,
+          "categories": [
+            "vintage"
+          ],
+          "id": "OLJCESPC7Z",
+          "description": "This typewriter looks good in your living room."
+        },
+        {
+          "description": "You won't have a camera to use it and it probably doesn't work anyway.",
+          "categories": [
+            "photography",
+            "vintage"
+          ],
+          "id": "66VCHSJNUP",
+          "priceUsd": 12.48,
+          "name": "Vintage Camera Lens",
+          "picture": "/img/products/camera-lens.jpg"
+        },
+        {
+          "description": "Always wanted to brew coffee with Chemex and Aeropress at home?",
+          "categories": [
+            "cookware"
+          ],
+          "id": "1YMWWN1N4O",
+          "picture": "/img/products/barista-kit.jpg",
+          "priceUsd": 123.99,
+          "name": "Home Barista Kit"
+        },
+        {
+          "name": "Terrarium",
+          "picture": "/img/products/terrarium.jpg",
+          "description": "This terrarium will looks great in your white painted living room.",
+          "categories": [
+            "gardening"
+          ],
+          "priceUsd": 34.44,
+          "id": "L9ECAV7KIM"
+        },
+        {
+          "priceUsd": 2244.99,
+          "categories": [
+            "photography",
+            "vintage"
+          ],
+          "name": "Film Camera",
+          "description": "This camera looks like it's a film camera, but it's actually digital.",
+          "id": "2ZYFJ3GM2N",
+          "picture": "/img/products/film-camera.jpg"
+        },
+        {
+          "name": "Vintage Record Player",
+          "description": "It still works.",
+          "priceUsd": 65.5,
+          "categories": [
+            "music",
+            "vintage"
+          ],
+          "picture": "/img/products/record-player.jpg",
+          "id": "0PUK6V6EV0"
+        },
+        {
+          "categories": [
+            "cookware"
+          ],
+          "priceUsd": 24.33,
+          "id": "LS4PSXUNUM",
+          "picture": "/img/products/camp-mug.jpg",
+          "description": "You probably don't go camping that often but this is better than plastic cups.",
+          "name": "Metal Camping Mug"
+        },
+        {
+          "description": "This single gear bike probably cannot climb the hills of San Francisco.",
+          "priceUsd": 789.5,
+          "picture": "/img/products/city-bike.jpg",
+          "categories": [
+            "cycling"
+          ],
+          "id": "9SIQT8TOJO",
+          "name": "City Bike"
+        },
+        {
+          "picture": "/img/products/air-plant.jpg",
+          "name": "Air Plant",
+          "priceUsd": 12.29,
+          "id": "6E92ZMYYFZ",
+          "description": "Have you ever wondered whether air plants need water? Buy one and figure out.",
+          "categories": [
+            "gardening"
+          ]
+        }
+      ]
+    },
+    "Apiproxyname": "lab13-catalog",
+    "ClientIP": "12.34.56.78"
+  }

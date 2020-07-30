@@ -1,0 +1,123 @@
+{"Apiproxyname": "lab13-catalog",
+      "responsePayload": {
+        "products": [
+          {
+            "categories": "vintage",
+            "description": "This typewriter looks good in your living room.",
+            "id": "OLJCESPC7Z",
+            "priceUsd": {
+              "units": 67,
+              "nanos": 990000000,
+              "currencyCode": "USD"
+            },
+            "picture": "/static/img/products/typewriter.jpg",
+            "name": "Vintage Typewriter"
+          },
+          {
+            "description": "You won't have a camera to use it and it probably doesn't work anyway.",
+            "id": "66VCHSJNUP",
+            "priceUsd": {
+              "nanos": 490000000,
+              "currencyCode": "USD",
+              "units": 12
+            },
+            "categories": [
+              "photography",
+              "vintage"
+            ],
+            "picture": "/static/img/products/camera-lens.jpg",
+            "name": "Vintage Camera Lens"
+          },
+          {
+            "picture": "/static/img/products/barista-kit.jpg",
+            "id": "1YMWWN1N4O",
+            "priceUsd": {
+              "units": 124,
+              "currencyCode": "USD"
+            },
+            "name": "Home Barista Kit",
+            "categories": "cookware",
+            "description": "Always wanted to brew coffee with Chemex and Aeropress at home?"
+          },
+          {
+            "picture": "/static/img/products/terrarium.jpg",
+            "priceUsd": {
+              "units": 36,
+              "nanos": 450000000,
+              "currencyCode": "USD"
+            },
+            "id": "L9ECAV7KIM",
+            "categories": "gardening",
+            "description": "This terrarium will looks great in your white painted living room.",
+            "name": "Terrarium"
+          },
+          {
+            "description": "This camera looks like it's a film camera, but it's actually digital.",
+            "picture": "/static/img/products/film-camera.jpg",
+            "id": "2ZYFJ3GM2N",
+            "priceUsd": {
+              "currencyCode": "USD",
+              "units": 2245
+            },
+            "categories": [
+              "photography",
+              "vintage"
+            ],
+            "name": "Film Camera"
+          },
+          {
+            "picture": "/static/img/products/record-player.jpg",
+            "description": "It still works.",
+            "id": "0PUK6V6EV0",
+            "name": "Vintage Record Player",
+            "categories": [
+              "music",
+              "vintage"
+            ],
+            "priceUsd": {
+              "nanos": 500000000,
+              "currencyCode": "USD",
+              "units": 65
+            }
+          },
+          {
+            "name": "Metal Camping Mug",
+            "priceUsd": {
+              "nanos": 330000000,
+              "currencyCode": "USD",
+              "units": 24
+            },
+            "picture": "/static/img/products/camp-mug.jpg",
+            "id": "LS4PSXUNUM",
+            "categories": "cookware",
+            "description": "You probably don't go camping that often but this is better than plastic cups."
+          },
+          {
+            "id": "9SIQT8TOJO",
+            "name": "City Bike",
+            "priceUsd": {
+              "units": 789,
+              "currencyCode": "USD",
+              "nanos": 500000000
+            },
+            "description": "This single gear bike probably cannot climb the hills of San Francisco.",
+            "picture": "/static/img/products/city-bike.jpg",
+            "categories": "cycling"
+          },
+          {
+            "id": "6E92ZMYYFZ",
+            "picture": "/static/img/products/air-plant.jpg",
+            "categories": "gardening",
+            "description": "Have you ever wondered whether air plants need water? Buy one and figure out.",
+            "priceUsd": {
+              "currencyCode": "USD",
+              "units": 12,
+              "nanos": 300000000
+            },
+            "name": "Air Plant"
+          }
+        ]
+      },
+      "Action": "POST",
+      "ClientIP": "12.34.56.78"
+    }
